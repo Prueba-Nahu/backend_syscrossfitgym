@@ -1,7 +1,7 @@
 {
   "name": "backend_syscrossfitgym",
   "version": "1.0.0",
-  "description": "",
+  "description": "Descripción del Proyecto",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
